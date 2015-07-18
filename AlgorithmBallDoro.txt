@@ -1,0 +1,6 @@
+int CountTo = 10;
+for (int counter = 1; counter <= CountTo; counter++)
+{
+    System.Console.WriteLine("Throw ball in the air");
+    System.Console.WriteLine("Spin");
+}

@@ -1,0 +1,12 @@
+int CountTo = 10;
+int Clap = 3;
+for (int counter = 1; counter <= CountTo; counter++)
+{
+    System.Console.WriteLine("Throw ball in the air");
+    System.Console.WriteLine("Spin");
+    
+    for (int counterClap = 1; counterClap <= Clap; counterClap++)
+    {
+        System.Console.WriteLine("Clap");
+    }
+}
